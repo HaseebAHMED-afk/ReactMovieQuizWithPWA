@@ -1,0 +1,123 @@
+ { "questions" :[
+    {
+        "category": "Entertainment: Film",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "What name did Tom Hanks give to his volleyball companion in the film `Cast Away`?",
+        "correct_answer": "Wilson",
+        "incorrect_answers": [
+            "Friday",
+            "Jones",
+            "Billy"
+        ]
+    },
+    {
+        "category": "Entertainment: Film",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Who wrote and directed the 1986 film &#039;Platoon&#039;?",
+        "correct_answer": "Oliver Stone",
+        "incorrect_answers": [
+            "Francis Ford Coppola",
+            "Stanley Kubrick",
+            "Michael Cimino"
+        ]
+    },
+    {
+        "category": "Entertainment: Film",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Which actress danced the twist with John Travolta in &#039;Pulp Fiction&#039;?",
+        "correct_answer": "Uma Thurman",
+        "incorrect_answers": [
+            "Kathy Griffin",
+            "Pam Grier",
+            "Bridget Fonda"
+        ]
+    },
+    {
+        "category": "Entertainment: Film",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Which of these movies did Jeff Bridges not star in?",
+        "correct_answer": "The Hateful Eight",
+        "incorrect_answers": [
+            "Tron: Legacy",
+            "The Giver",
+            "True Grit"
+        ]
+    },
+    {
+        "category": "Entertainment: Film",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Which movie includes a giant bunny-like spirit who has magic powers including growing trees?",
+        "correct_answer": "My Neighbor Totoro",
+        "incorrect_answers": [
+            "Hop",
+            "Rise of the Guardians",
+            "Alice in Wonderland"
+        ]
+    },
+    {
+        "category": "Entertainment: Film",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "In the movie &quot;Spaceballs&quot;, what are the Spaceballs attempting to steal from Planet Druidia?",
+        "correct_answer": "Air",
+        "incorrect_answers": [
+            "The Schwartz",
+            "Princess Lonestar",
+            "Meatballs"
+        ]
+    },
+    {
+        "category": "Entertainment: Film",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "What is the name of the island that &quot;Jurassic Park&quot; is built on?",
+        "correct_answer": "Isla Nublar",
+        "incorrect_answers": [
+            "Isla Sorna",
+            "Isla Muerta",
+            "Isla Pena"
+        ]
+    },
+    {
+        "category": "Entertainment: Film",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "What was Bruce Campbell&#039;s iconic one-liner after getting a chainsaw hand in Evil Dead 2?",
+        "correct_answer": "Groovy.",
+        "incorrect_answers": [
+            "Gnarly.",
+            "Perfect.",
+            "Nice."
+        ]
+    },
+    {
+        "category": "Entertainment: Film",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "What was the first feature-length computer-animated movie?",
+        "correct_answer": "Toy Story",
+        "incorrect_answers": [
+            "Tron",
+            "Lion king",
+            "101 Dalmatians"
+        ]
+    },
+    {
+        "category": "Entertainment: Film",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Who directed the Kill Bill movies?",
+        "correct_answer": "Quentin Tarantino",
+        "incorrect_answers": [
+            "Arnold Schwarzenegger",
+            "David Lean",
+            "Stanley Kubrick"
+        ]
+    }
+]
+}

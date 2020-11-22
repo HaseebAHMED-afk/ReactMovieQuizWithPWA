@@ -1,0 +1,57 @@
+body{
+    background-color: #0070ad;
+background-image: url("https://www.transparenttextures.com/patterns/back-pattern.png");
+text-align: center;
+}
+.main-heading{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: white;
+}
+.score{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: white;
+}
+.loading{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: white;
+}
+.questionCard{
+    width: 50%;
+    height: 100%;
+    border-radius: 2%;
+    background-color: white;
+    text-align: center;
+    margin: 50px auto;
+    justify-content: center;
+    padding: 25px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: #ffffff;
+background-image: url("https://www.transparenttextures.com/patterns/arches.png");
+}
+.option-buttons{
+    display: block;
+    margin: 10px auto;
+    width: 100%;
+    border-radius: 2%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: large;
+}
+
+.start{
+    margin: 10px;
+    width: 5%;
+    height: 25px;
+    background-color: #64d4fd;
+background-image: url("https://www.transparenttextures.com/patterns/binding-dark.png");
+border: none;
+border-radius: 10%;
+}
+.next-button{
+    margin: 10px;
+    width: 5%;
+    height: 25px;
+    background-color: #61cdf5;
+background-image: url("https://www.transparenttextures.com/patterns/binding-dark.png");
+border: none;
+border-radius: 10%;
+}

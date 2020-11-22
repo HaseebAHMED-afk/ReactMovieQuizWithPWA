@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="theme-color" content="#000000" />
+    <link rel="icon" href="./images/react.png" type="image/png">
+    <link rel="manifest" href="./manifest.json" />
+    <link rel="apple-touch-icon" href="./images/react.png">
+    <title>Movie Quiz</title>
+  </head>
+  <body>
+    <noscript>You need to enable JavaScript to view this site</noscript>
+    <div id="root"></div>
+    
+    <script>
+      if('serviceWorker' in navigator){
+        window.addEventListener('load' , () => {
+          navigator.serviceWorker.register('./serviceWorker.js')
+          .then((reg) => console.log('Success: ' , reg.scope) )
+          .catch((err) => console.log('Failure: ', err) )
+        })
+      }
+    </script>
+  </body>
+</html>
